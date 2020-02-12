@@ -1,0 +1,174 @@
+
+/* Class = "UILabel"; text = "Word 7:"; ObjectID = "2fo-LN-X4u"; */
+"2fo-LN-X4u.text" = "Word 7:";
+
+/* Class = "UILabel"; text = "Word 9:"; ObjectID = "3WS-By-CSQ"; */
+"3WS-By-CSQ.text" = "Word 9:";
+
+/* Class = "UITextField"; placeholder = "ADD WORD"; ObjectID = "4PJ-UG-UJo"; */
+"4PJ-UG-UJo.placeholder" = "ADD WORD";
+
+/* Class = "UITextField"; text = "ADD WORD"; ObjectID = "4PJ-UG-UJo"; */
+"4PJ-UG-UJo.text" = "ADD WORD";
+
+/* Class = "UIButton"; normalTitle = "INSTRUCTIONS"; ObjectID = "4Pc-4o-bNJ"; */
+"4Pc-4o-bNJ.normalTitle" = "INSTRUCTIONS";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "5q5-gO-ODC"; */
+"5q5-gO-ODC.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE PLAY WORD LIST"; ObjectID = "5tp-if-4TW"; */
+"5tp-if-4TW.normalTitle" = "CONTINUE PLAY WORD LIST";
+
+/* Class = "UILabel"; text = "Word 11:"; ObjectID = "6ZG-Ja-vVx"; */
+"6ZG-Ja-vVx.text" = "Word 11:";
+
+/* Class = "UILabel"; text = "WORD HUNTER"; ObjectID = "9hg-cg-Iqc"; */
+"9hg-cg-Iqc.text" = "WORD HUNTER";
+
+/* Class = "UITextField"; placeholder = "ADD WORD"; ObjectID = "AVP-8y-ILl"; */
+"AVP-8y-ILl.placeholder" = "ADD WORD";
+
+/* Class = "UITextField"; text = "ADD WORD"; ObjectID = "AVP-8y-ILl"; */
+"AVP-8y-ILl.text" = "ADD WORD";
+
+/* Class = "UITextField"; placeholder = "ADD WORD"; ObjectID = "ENK-HU-Q4k"; */
+"ENK-HU-Q4k.placeholder" = "ADD WORD";
+
+/* Class = "UITextField"; text = "ADD WORD"; ObjectID = "ENK-HU-Q4k"; */
+"ENK-HU-Q4k.text" = "ADD WORD";
+
+/* Class = "UILabel"; text = "Word 5:"; ObjectID = "FdU-5g-8jD"; */
+"FdU-5g-8jD.text" = "Word 5:";
+
+/* Class = "UITextField"; placeholder = "ADD WORD"; ObjectID = "GxY-H2-YmB"; */
+"GxY-H2-YmB.placeholder" = "ADD WORD";
+
+/* Class = "UITextField"; text = "ADD WORD"; ObjectID = "GxY-H2-YmB"; */
+"GxY-H2-YmB.text" = "ADD WORD";
+
+/* Class = "UILabel"; text = "Word 8:"; ObjectID = "JKt-AK-JdO"; */
+"JKt-AK-JdO.text" = "Word 8:";
+
+/* Class = "UITextField"; placeholder = "ADD WORD"; ObjectID = "NaA-RL-Fq8"; */
+"NaA-RL-Fq8.placeholder" = "ADD WORD";
+
+/* Class = "UITextField"; text = "ADD WORD"; ObjectID = "NaA-RL-Fq8"; */
+"NaA-RL-Fq8.text" = "ADD WORD";
+
+/* Class = "UILabel"; text = "Word 10:"; ObjectID = "RY7-it-RJQ"; */
+"RY7-it-RJQ.text" = "Word 10:";
+
+/* Class = "UILabel"; text = "CONGRATULATIONS"; ObjectID = "Rhz-ha-ax4"; */
+"Rhz-ha-ax4.text" = "CONGRATULATIONS";
+
+/* Class = "UITextField"; placeholder = "ADD WORD"; ObjectID = "S6D-F7-Iqc"; */
+"S6D-F7-Iqc.placeholder" = "ADD WORD";
+
+/* Class = "UITextField"; text = "ADD WORD"; ObjectID = "S6D-F7-Iqc"; */
+"S6D-F7-Iqc.text" = "ADD WORD";
+
+/* Class = "UILabel"; text = "Word 6:"; ObjectID = "TZG-c4-l8G"; */
+"TZG-c4-l8G.text" = "Word 6:";
+
+/* Class = "UISegmentedControl"; UYn-sF-iOP.segmentTitles[0] = "Small"; ObjectID = "UYn-sF-iOP"; */
+"UYn-sF-iOP.segmentTitles[0]" = "Small";
+
+/* Class = "UISegmentedControl"; UYn-sF-iOP.segmentTitles[1] = "Medium"; ObjectID = "UYn-sF-iOP"; */
+"UYn-sF-iOP.segmentTitles[1]" = "Medium";
+
+/* Class = "UISegmentedControl"; UYn-sF-iOP.segmentTitles[2] = "Large"; ObjectID = "UYn-sF-iOP"; */
+"UYn-sF-iOP.segmentTitles[2]" = "Large";
+
+/* Class = "UINavigationItem"; title = "HUNTING"; ObjectID = "UzK-f5-SSP"; */
+"UzK-f5-SSP.title" = "HUNTING";
+
+/* Class = "UIButton"; normalTitle = "SETTINGS"; ObjectID = "VXz-Di-TB5"; */
+"VXz-Di-TB5.normalTitle" = "SETTINGS";
+
+/* Class = "UILabel"; text = "Playground:"; ObjectID = "W2w-PL-fv4"; */
+"W2w-PL-fv4.text" = "Playground:";
+
+/* Class = "UITextField"; placeholder = "ADD WORD"; ObjectID = "WDw-GR-ljf"; */
+"WDw-GR-ljf.placeholder" = "ADD WORD";
+
+/* Class = "UITextField"; text = "ADD WORD"; ObjectID = "WDw-GR-ljf"; */
+"WDw-GR-ljf.text" = "ADD WORD";
+
+/* Class = "UIButton"; normalTitle = "PLAY SINGLE WORD"; ObjectID = "X0h-3r-raK"; */
+"X0h-3r-raK.normalTitle" = "PLAY SINGLE WORD";
+
+/* Class = "UINavigationItem"; title = "SETTINGS"; ObjectID = "apW-7i-5x0"; */
+"apW-7i-5x0.title" = "SETTINGS";
+
+/* Class = "UILabel"; text = "YOU FINISH"; ObjectID = "ch2-2z-FvG"; */
+"ch2-2z-FvG.text" = "YOU FINISH";
+
+/* Class = "UIBarButtonItem"; title = "back"; ObjectID = "cqk-ei-BV8"; */
+"cqk-ei-BV8.title" = "back";
+
+/* Class = "UINavigationItem"; title = "FINISH"; ObjectID = "dcg-NC-ybJ"; */
+"dcg-NC-ybJ.title" = "FINISH";
+
+/* Class = "UIButton"; normalTitle = "START PLAY WORD LIST"; ObjectID = "e6f-r7-J4b"; */
+"e6f-r7-J4b.normalTitle" = "START PLAY WORD LIST";
+
+/* Class = "UILabel"; text = "Word 2:"; ObjectID = "ezy-4d-34h"; */
+"ezy-4d-34h.text" = "Word 2:";
+
+/* Class = "UIButton"; normalTitle = "CLOSE"; ObjectID = "fff-fr-oNf"; */
+"fff-fr-oNf.normalTitle" = "CLOSE";
+
+/* Class = "UILabel"; text = "Show Word:"; ObjectID = "hlB-Al-4DG"; */
+"hlB-Al-4DG.text" = "Show Word:";
+
+/* Class = "UINavigationItem"; title = "HUNTING LETTERS"; ObjectID = "hxc-QZ-0od"; */
+"hxc-QZ-0od.title" = "HUNTING LETTERS";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "pPl-gm-MRV"; */
+"pPl-gm-MRV.title" = "Back";
+
+/* Class = "UITextField"; placeholder = "ADD WORD"; ObjectID = "qbn-ma-Yxc"; */
+"qbn-ma-Yxc.placeholder" = "ADD WORD";
+
+/* Class = "UITextField"; text = "ADD WORD"; ObjectID = "qbn-ma-Yxc"; */
+"qbn-ma-Yxc.text" = "ADD WORD";
+
+/* Class = "UILabel"; text = "Word 1:"; ObjectID = "rhJ-FI-un9"; */
+"rhJ-FI-un9.text" = "Word 1:";
+
+/* Class = "UITextField"; placeholder = "ADD WORD"; ObjectID = "sNd-Ld-fy2"; */
+"sNd-Ld-fy2.placeholder" = "ADD WORD";
+
+/* Class = "UITextField"; text = "ADD WORD"; ObjectID = "sNd-Ld-fy2"; */
+"sNd-Ld-fy2.text" = "ADD WORD";
+
+/* Class = "UIButton"; normalTitle = "CLOSE"; ObjectID = "t4r-YY-lat"; */
+"t4r-YY-lat.normalTitle" = "CLOSE";
+
+/* Class = "UILabel"; text = "Word 4:"; ObjectID = "t59-H1-Ee9"; */
+"t59-H1-Ee9.text" = "Word 4:";
+
+/* Class = "UITextField"; placeholder = "ADD WORD"; ObjectID = "txC-Uh-D1q"; */
+"txC-Uh-D1q.placeholder" = "ADD WORD";
+
+/* Class = "UITextField"; text = "ADD WORD"; ObjectID = "txC-Uh-D1q"; */
+"txC-Uh-D1q.text" = "ADD WORD";
+
+/* Class = "UITextField"; placeholder = "ADD WORD"; ObjectID = "vTq-i1-tVQ"; */
+"vTq-i1-tVQ.placeholder" = "ADD WORD";
+
+/* Class = "UITextField"; text = "ADD WORD"; ObjectID = "vTq-i1-tVQ"; */
+"vTq-i1-tVQ.text" = "ADD WORD";
+
+/* Class = "UILabel"; text = "Word 3:"; ObjectID = "viA-ch-Ids"; */
+"viA-ch-Ids.text" = "Word 3:";
+
+/* Class = "UILabel"; text = "Word 12:"; ObjectID = "wIJ-Qi-daZ"; */
+"wIJ-Qi-daZ.text" = "Word 12:";
+
+/* Class = "UITextField"; placeholder = "ADD WORD"; ObjectID = "yw5-Ay-7Yg"; */
+"yw5-Ay-7Yg.placeholder" = "ADD WORD";
+
+/* Class = "UITextField"; text = "ADD WORD"; ObjectID = "yw5-Ay-7Yg"; */
+"yw5-Ay-7Yg.text" = "ADD WORD";

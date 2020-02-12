@@ -1,0 +1,6 @@
+framework module Pods_AR_Hunting_Letters {
+  umbrella header "Pods-AR Hunting Letters-umbrella.h"
+
+  export *
+  module * { export * }
+}
